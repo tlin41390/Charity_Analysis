@@ -14,13 +14,17 @@ Overview
     * Unfortunately I was not able to get above 75% accuracy for the machine learning model.
 
    **Initial Test**
+   
   ![accuracy score](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore.png)
+  
   **Mod 1**
   
   ![accuracy score 2](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore2.png)
+  
   **Mod 2**
   
   ![accuracy score 3](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore2.0.png)
+  
   **Mod 3**
   
   ![accuracy score 4](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore3.png)
