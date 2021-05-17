@@ -9,16 +9,23 @@ Overview
     * During the processing, I had to remove STATUS, INCOME_AMOUNT, as well as  SPECIAL_CONSIDERATIONS because they did not assist us in the assessment. 
   * Constructing Model
     * When creating the model 1 used 2 hidden layers because it seemed like it would help in improving the accuracy score of the model we are trying to use.
+
   ![hidden_nodes](https://github.com/tlin41390/Charity_Analysis/blob/main/images/plot.png)
     * Unfortunately I was not able to get above 75% accuracy for the machine learning model.
+
    **Initial Test**
   ![accuracy score](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore.png)
   **Mod 1**
+  
   ![accuracy score 2](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore2.png)
   **Mod 2**
+  
   ![accuracy score 3](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore2.0.png)
   **Mod 3**
+  
   ![accuracy score 4](https://github.com/tlin41390/Charity_Analysis/blob/main/images/accScore3.png)
-    * The modifications I tried to do is increase the number of hidden nodes, I also increased the epochs of the machine learning model. Finally I tried to combine both of the    modifications into one run   
-
+  
+   * The modifications I tried to do is increase the number of hidden nodes, I also increased the epochs of the machine learning model. Finally I tried to combine both of the    modifications into one run   
+###Summary
+  Overall, The modifications failed to get to 75%, and the changes only slightly increased the default accuracy score of the predictions.
   
