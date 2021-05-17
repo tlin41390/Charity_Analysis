@@ -1,4 +1,4 @@
-# Charity_Analysis\
+# Charity_Analysis
 Overview
   The purpose of this analysis is to beable to process data, extract the data and fit a model so that a neural network can attempt to interpret the data and make predictions
   
